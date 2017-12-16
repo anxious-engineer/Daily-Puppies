@@ -4,7 +4,8 @@ import webbrowser
 subreddits = [
     'dogpictures',
     'eyebleach',
-    'aww'
+    'corgi',
+    'puppies'
 ]
 
 start_doc = '<!DOCTYPE html>\n<html>\n<title>Puppies</title>\n<head>\n</head>\n<body>\n<div id=\'photos\'>\n'
